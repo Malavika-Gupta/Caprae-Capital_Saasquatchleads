@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "company": "Initech",
+    "description": "B2B SaaS platform using Python and React",
+    "tech_stack": "Python, React, AWS",
+    "location": "San Francisco",
+    "email": "ceo@initech.com"
+  },
+  {
+    "id": 2,
+    "company": "Globex",
+    "description": "Enterprise analytics with .NET backend",
+    "tech_stack": ".NET, Azure",
+    "location": "New York",
+    "email": "cto@globex.com"
+  }
+]
