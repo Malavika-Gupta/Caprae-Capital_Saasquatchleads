@@ -14,5 +14,69 @@
     "tech_stack": ".NET, Azure",
     "location": "New York",
     "email": "cto@globex.com"
+  },
+  {
+    "id": 3,
+    "company": "Hooli",
+    "description": "Cloud-based productivity suite",
+    "tech_stack": "Go, Kubernetes, GCP",
+    "location": "Palo Alto",
+    "email": "founder@hooli.com"
+  },
+  {
+    "id": 4,
+    "company": "Vandelay Industries",
+    "description": "Import-export firm leveraging AI logistics",
+    "tech_stack": "Node.js, TensorFlow, MongoDB",
+    "location": "Chicago",
+    "email": "sales@vandelay.com"
+  },
+  {
+    "id": 5,
+    "company": "Stark Solutions",
+    "description": "Next-gen cybersecurity for enterprises",
+    "tech_stack": "Rust, Docker, AWS",
+    "location": "Boston",
+    "email": "tony@starksolutions.com"
+  },
+  {
+    "id": 6,
+    "company": "Wayne Enterprises",
+    "description": "AI-driven financial tech for high-net clients",
+    "tech_stack": "Python, Flask, PostgreSQL",
+    "location": "Gotham City",
+    "email": "bruce@wayneenterprises.com"
+  },
+  {
+    "id": 7,
+    "company": "Umbrella Corp",
+    "description": "Biotech firm with data automation tools",
+    "tech_stack": "Java, Oracle DB, Azure",
+    "location": "Raccoon City",
+    "email": "admin@umbrella.com"
+  },
+  {
+    "id": 8,
+    "company": "Acme Corp",
+    "description": "Smart manufacturing and IoT integrations",
+    "tech_stack": "C++, Node.js, MQTT",
+    "location": "Phoenix",
+    "email": "ops@acme.com"
+  },
+  {
+    "id": 9,
+    "company": "Cyberdyne Systems",
+    "description": "Robotics and automation powered by AI",
+    "tech_stack": "C#, ML.NET, Redis",
+    "location": "Los Angeles",
+    "email": "skynet@cyberdyne.com"
+  },
+  {
+    "id": 10,
+    "company": "Wonka Digital",
+    "description": "AR/VR experiences for online retail",
+    "tech_stack": "Unity, WebGL, Firebase",
+    "location": "London",
+    "email": "willy@wonkadigital.com"
   }
 ]
