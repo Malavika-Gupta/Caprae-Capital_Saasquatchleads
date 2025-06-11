@@ -100,7 +100,14 @@ Caprae-Capital_SaaSquatchLeads/
        -d '{"keywords": "Python", "location": "San Francisco"}'
   ```
 ---
+## 📸 UI Screenshots
 
+| Final Output | Error Handling |
+|:------------:|:--------------:|
+| ![Final Output](./Final_Output.png) | ![Error Handling](./Error_Handling.png) |
+
+These screenshots illustrate the evolution of the interface—from the base mockup to the enhanced version with filtering, polished design, and graceful error management.
+---
 ## 📋 Credits
 ```text
 Developed by Malavika Gupta
