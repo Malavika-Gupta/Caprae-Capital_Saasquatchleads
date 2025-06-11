@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "jsx": "react-jsx",                  // Essential for React 17+
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,                // Prevents type errors in Chakra
+    "strict": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
+
